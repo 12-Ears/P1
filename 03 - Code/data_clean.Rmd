@@ -70,8 +70,8 @@ feature_select<-function(df) {
                   ,'TympType'
                   ,'Unnamed: 55'
                   ,'Unnamed: 64'
-                  ,'OAEPoFC'
-                  ,'Ear coded'
+                  ,'OAEPoF'
+                  ,'EarSide'
                   ,'Pressure'
   )
   
