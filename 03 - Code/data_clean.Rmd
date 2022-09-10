@@ -68,7 +68,7 @@ feature_select<-function(df) {
                       ,PTAAv4FAPoFC
                       ,TympType
                       ,OAEPoFC
-                      ,Ear.coded
+                      ,EarSide
                       ,Pressure
                       ))
 }
